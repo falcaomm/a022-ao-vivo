@@ -1,0 +1,32 @@
+body {
+    text-align: center;
+}
+
+button {
+    display: inline;
+    border: 0.5px solid black;
+    padding: 20px;
+    margin-bottom: 10px;
+}
+
+
+button:hover {
+    color: white;
+    background-color: palevioletred;
+}
+
+button:active {
+    color: black;
+    background-color: royalblue;
+}
+
+div {
+    background-color: yellow;
+    width: 50%;
+    padding: 20px;
+    margin: 0px auto 10px auto;
+}
+
+span {
+    background-color: brown;
+}
