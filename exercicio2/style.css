@@ -1,0 +1,18 @@
+header {
+    border: 1px solid black;
+    padding: 20px;
+    position: sticky;
+    top: 0px;
+    background-color: yellow;
+}
+
+main{
+    height: 1000px;
+    background-color: blue;
+}
+
+footer {
+    border: 1px solid black;
+    padding: 20px;
+    background-color: green;
+}
